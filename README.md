@@ -2,7 +2,7 @@
 
 <details>
   <summary>
-    🧑‍💻 i,m a self taught front end developer, check my stack of technologies bellow...
+    🧑‍💻 i,m a self taught front end developer, check my stack bellow...
   </summary>
   <br/>
   <div>
