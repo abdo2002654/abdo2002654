@@ -23,10 +23,7 @@
   <div>
     <img src="https://img.shields.io/badge/typescript-2965f1?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/nextJs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/tailwind-0fb6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/git-f06529?style=for-the-badge&logo=git&logoColor=black" />
-    <img src="https://img.shields.io/badge/material ui-2965f1?style=for-the-badge&logo=mui&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=whitec " /> 
+   
   </div>
 </details>
