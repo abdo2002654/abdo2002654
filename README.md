@@ -1,4 +1,4 @@
-### Hi there 👋
+⁹### Hi there 👋
 
 <details>
   <summary>
@@ -22,7 +22,7 @@
   <br/>
   <div>
     <img src="https://img.shields.io/badge/typescript-2965f1?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/nextJs-2965f1?style=for-the-badge&logo=nextjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/nextJs-2965f1?style=for-the-badge&logo=next&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/tailwind-0fb6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img src="https://img.shields.io/badge/git-f06529?style=for-the-badge&logo=git&logoColor=black" />
