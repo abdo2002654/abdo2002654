@@ -14,6 +14,8 @@
     <img src="https://img.shields.io/badge/react-2965f1?style=for-the-badge&logo=react&logoColor=white" />
     
   </div>
+  </details>
+  <details>
   <summary>
     💻 here are some technologys that im willing to learn ...
   </summary>
