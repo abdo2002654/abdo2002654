@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/tailwind-0fb6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img src="https://img.shields.io/badge/git-f06529?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/material-61DBFB?style=for-the-badge&logo=mui&logoColor=black" />
+    <img src="https://img.shields.io/badge/material-2965f1?style=for-the-badge&logo=mui&logoColor=black" />
     
   </div>
   </details>
