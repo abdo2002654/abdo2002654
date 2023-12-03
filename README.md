@@ -18,7 +18,7 @@
   </details>
   <details>
   <summary>
-    💻 here are some technologys that im willing to learn ...
+     🚀  here are some technologys that im willing to learn ...
   </summary>
   <br/>
   <div>
